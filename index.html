@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="El Fariss personal site: data engineering, machine learning, and systems work.">
+    <title>El Fariss | Data Engineering + ML</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=IBM+Plex+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div class="ambient"></div>
+    <div class="noise"></div>
+
+    <header class="shell">
+      <nav class="topbar">
+        <p class="logo" id="identity-username">@ElFariss</p>
+        <ul>
+          <li><a href="#about">About</a></li>
+          <li><a href="#stack">Stack</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#stats">Stats</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+
+      <section class="hero panel">
+        <div class="hero-copy">
+          <p class="eyebrow">Personal operating log</p>
+          <h1 id="identity-name">El Fariss</h1>
+          <p class="tagline" id="identity-tagline">Data Engineering and Machine Learning Practitioner</p>
+          <p class="summary" id="identity-summary"></p>
+        </div>
+        <figure class="hero-visual">
+          <img id="hero-image" src="assets/lain.jpeg" alt="Lain themed visual">
+        </figure>
+      </section>
+    </header>
+
+    <main class="shell">
+      <section id="about" class="panel section">
+        <h2>About</h2>
+        <p class="headline" id="about-headline"></p>
+        <p id="about-body"></p>
+        <p class="now" id="about-now"></p>
+      </section>
+
+      <section id="stack" class="panel section">
+        <h2>Stack</h2>
+        <div id="stack-grid" class="stack-grid"></div>
+      </section>
+
+      <section id="projects" class="panel section">
+        <h2>Projects</h2>
+        <p class="section-note">Featured repositories from GitHub activity.</p>
+        <div id="projects-grid" class="projects-grid"></div>
+      </section>
+
+      <section id="stats" class="panel section">
+        <h2>Stats</h2>
+        <div class="metrics-grid">
+          <article class="metric-card"><h3>Followers</h3><p id="metric-followers">-</p></article>
+          <article class="metric-card"><h3>Public Repos</h3><p id="metric-repos">-</p></article>
+          <article class="metric-card"><h3>Total Stars</h3><p id="metric-stars">-</p></article>
+          <article class="metric-card"><h3>Total Forks</h3><p id="metric-forks">-</p></article>
+        </div>
+        <div class="stats-layout">
+          <article class="sub-panel">
+            <h3>Top Languages</h3>
+            <div id="language-bars" class="language-bars"></div>
+          </article>
+          <article class="sub-panel">
+            <h3>Recent Pushes</h3>
+            <ul id="activity-list" class="activity-list"></ul>
+          </article>
+        </div>
+      </section>
+
+      <section id="contact" class="panel section">
+        <h2>Contact</h2>
+        <div id="contact-links" class="contact-links"></div>
+      </section>
+    </main>
+
+    <footer class="shell footer">
+      <p>Generated from local source. Updated <span id="generated-date">-</span>.</p>
+      <p>&copy; <span id="year"></span> <span id="footer-name">El Fariss</span></p>
+    </footer>
+
+    <noscript>
+      <p class="noscript">This site needs JavaScript enabled to render live GitHub stats.</p>
+    </noscript>
+
+    <script type="module" src="app.js"></script>
+  </body>
+</html>

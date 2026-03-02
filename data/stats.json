@@ -1,0 +1,265 @@
+{
+  "generated_at": "2026-03-02T09:55:59.863Z",
+  "username": "ElFariss",
+  "profile": {
+    "login": "ElFariss",
+    "name": "Faris",
+    "bio": "Freak",
+    "avatar_url": "https://avatars.githubusercontent.com/u/194391759?v=4",
+    "html_url": "https://github.com/ElFariss",
+    "followers": 8,
+    "following": 9,
+    "public_repos": 12
+  },
+  "repos": {
+    "count_owned": 12,
+    "count_non_fork": 12,
+    "total_stars": 1,
+    "total_forks": 0,
+    "total_open_issues": 0,
+    "featured": [
+      {
+        "name": "TripAdvisorReviewsSraper",
+        "full_name": "ElFariss/TripAdvisorReviewsSraper",
+        "description": null,
+        "html_url": "https://github.com/ElFariss/TripAdvisorReviewsSraper",
+        "language": "Jupyter Notebook",
+        "stargazers_count": 1,
+        "forks_count": 0,
+        "updated_at": "2025-06-04T10:55:59Z",
+        "pushed_at": "2025-05-20T03:56:24Z"
+      },
+      {
+        "name": "ElFariss",
+        "full_name": "ElFariss/ElFariss",
+        "description": null,
+        "html_url": "https://github.com/ElFariss/ElFariss",
+        "language": "JavaScript",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "updated_at": "2026-03-02T09:55:50Z",
+        "pushed_at": "2026-03-02T09:55:46Z"
+      },
+      {
+        "name": "ElFariss.github.io",
+        "full_name": "ElFariss/ElFariss.github.io",
+        "description": "ElFariss personal site",
+        "html_url": "https://github.com/ElFariss/ElFariss.github.io",
+        "language": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "updated_at": "2026-03-02T09:54:44Z",
+        "pushed_at": "2026-03-02T09:54:41Z"
+      },
+      {
+        "name": "pasarint",
+        "full_name": "ElFariss/pasarint",
+        "description": null,
+        "html_url": "https://github.com/ElFariss/pasarint",
+        "language": "Python",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "updated_at": "2026-02-27T12:24:27Z",
+        "pushed_at": "2026-02-27T12:24:24Z"
+      },
+      {
+        "name": "data-science-mcp",
+        "full_name": "ElFariss/data-science-mcp",
+        "description": null,
+        "html_url": "https://github.com/ElFariss/data-science-mcp",
+        "language": "Python",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "updated_at": "2026-01-30T12:51:27Z",
+        "pushed_at": "2026-01-30T12:51:24Z"
+      },
+      {
+        "name": "courtee",
+        "full_name": "ElFariss/courtee",
+        "description": null,
+        "html_url": "https://github.com/ElFariss/courtee",
+        "language": "Java",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "updated_at": "2025-12-18T08:06:04Z",
+        "pushed_at": "2025-12-18T08:06:00Z"
+      }
+    ]
+  },
+  "languages": {
+    "total_bytes": 2242871,
+    "items": [
+      {
+        "name": "Jupyter Notebook",
+        "bytes": 1771674,
+        "percent": 78.99
+      },
+      {
+        "name": "Python",
+        "bytes": 270397,
+        "percent": 12.06
+      },
+      {
+        "name": "Java",
+        "bytes": 160515,
+        "percent": 7.16
+      },
+      {
+        "name": "JavaScript",
+        "bytes": 23080,
+        "percent": 1.03
+      },
+      {
+        "name": "CSS",
+        "bytes": 8397,
+        "percent": 0.37
+      },
+      {
+        "name": "Shell",
+        "bytes": 4642,
+        "percent": 0.21
+      },
+      {
+        "name": "HTML",
+        "bytes": 3745,
+        "percent": 0.17
+      },
+      {
+        "name": "Dockerfile",
+        "bytes": 421,
+        "percent": 0.02
+      }
+    ],
+    "top": [
+      {
+        "name": "Jupyter Notebook",
+        "bytes": 1771674,
+        "percent": 78.99
+      },
+      {
+        "name": "Python",
+        "bytes": 270397,
+        "percent": 12.06
+      },
+      {
+        "name": "Java",
+        "bytes": 160515,
+        "percent": 7.16
+      },
+      {
+        "name": "JavaScript",
+        "bytes": 23080,
+        "percent": 1.03
+      },
+      {
+        "name": "CSS",
+        "bytes": 8397,
+        "percent": 0.37
+      },
+      {
+        "name": "Shell",
+        "bytes": 4642,
+        "percent": 0.21
+      },
+      {
+        "name": "HTML",
+        "bytes": 3745,
+        "percent": 0.17
+      },
+      {
+        "name": "Dockerfile",
+        "bytes": 421,
+        "percent": 0.02
+      }
+    ]
+  },
+  "activity": {
+    "last_push_at": "2026-03-02T09:55:46Z",
+    "recent_pushes": [
+      {
+        "name": "ElFariss",
+        "full_name": "ElFariss/ElFariss",
+        "html_url": "https://github.com/ElFariss/ElFariss",
+        "language": "JavaScript",
+        "pushed_at": "2026-03-02T09:55:46Z"
+      },
+      {
+        "name": "ElFariss.github.io",
+        "full_name": "ElFariss/ElFariss.github.io",
+        "html_url": "https://github.com/ElFariss/ElFariss.github.io",
+        "language": null,
+        "pushed_at": "2026-03-02T09:54:41Z"
+      },
+      {
+        "name": "pasarint",
+        "full_name": "ElFariss/pasarint",
+        "html_url": "https://github.com/ElFariss/pasarint",
+        "language": "Python",
+        "pushed_at": "2026-02-27T12:24:24Z"
+      },
+      {
+        "name": "data-science-mcp",
+        "full_name": "ElFariss/data-science-mcp",
+        "html_url": "https://github.com/ElFariss/data-science-mcp",
+        "language": "Python",
+        "pushed_at": "2026-01-30T12:51:24Z"
+      },
+      {
+        "name": "courtee",
+        "full_name": "ElFariss/courtee",
+        "html_url": "https://github.com/ElFariss/courtee",
+        "language": "Java",
+        "pushed_at": "2025-12-18T08:06:00Z"
+      },
+      {
+        "name": "Satellite-Segmentation",
+        "full_name": "ElFariss/Satellite-Segmentation",
+        "html_url": "https://github.com/ElFariss/Satellite-Segmentation",
+        "language": "Jupyter Notebook",
+        "pushed_at": "2025-11-21T08:05:18Z"
+      },
+      {
+        "name": "compfest-data-extract-and-transform",
+        "full_name": "ElFariss/compfest-data-extract-and-transform",
+        "html_url": "https://github.com/ElFariss/compfest-data-extract-and-transform",
+        "language": "Jupyter Notebook",
+        "pushed_at": "2025-11-16T06:14:08Z"
+      },
+      {
+        "name": "human-emotion-detection",
+        "full_name": "ElFariss/human-emotion-detection",
+        "html_url": "https://github.com/ElFariss/human-emotion-detection",
+        "language": "Jupyter Notebook",
+        "pushed_at": "2025-11-16T06:09:39Z"
+      },
+      {
+        "name": "spark-hadoop-docker-compose",
+        "full_name": "ElFariss/spark-hadoop-docker-compose",
+        "html_url": "https://github.com/ElFariss/spark-hadoop-docker-compose",
+        "language": null,
+        "pushed_at": "2025-09-11T06:38:27Z"
+      },
+      {
+        "name": "airfoil_noise_prediction_model",
+        "full_name": "ElFariss/airfoil_noise_prediction_model",
+        "html_url": "https://github.com/ElFariss/airfoil_noise_prediction_model",
+        "language": "Jupyter Notebook",
+        "pushed_at": "2025-09-11T06:21:56Z"
+      },
+      {
+        "name": "Python-Files-Extraction",
+        "full_name": "ElFariss/Python-Files-Extraction",
+        "html_url": "https://github.com/ElFariss/Python-Files-Extraction",
+        "language": "Jupyter Notebook",
+        "pushed_at": "2025-07-16T16:45:33Z"
+      },
+      {
+        "name": "TripAdvisorReviewsSraper",
+        "full_name": "ElFariss/TripAdvisorReviewsSraper",
+        "html_url": "https://github.com/ElFariss/TripAdvisorReviewsSraper",
+        "language": "Jupyter Notebook",
+        "pushed_at": "2025-05-20T03:56:24Z"
+      }
+    ]
+  }
+}

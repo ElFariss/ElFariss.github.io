@@ -1,0 +1,99 @@
+{
+  "identity": {
+    "name": "El Fariss",
+    "username": "ElFariss",
+    "tagline": "Data Engineering and Machine Learning Practitioner",
+    "summary": "Building data pipelines, automating workflows, and experimenting with reliable systems.",
+    "hero_image": "assets/lain.jpeg"
+  },
+  "about": {
+    "headline": "Always online, always building",
+    "body": "I work across data engineering and ML workflows, with a focus on practical systems that ship. I enjoy designing robust pipelines, improving developer velocity through automation, and keeping infrastructure understandable.",
+    "now": "Currently focused on data pipelines, model-serving reliability, and clean reproducible environments."
+  },
+  "stack": [
+    {
+      "name": "Python",
+      "category": "Language"
+    },
+    {
+      "name": "Java",
+      "category": "Language"
+    },
+    {
+      "name": "PySpark",
+      "category": "Data"
+    },
+    {
+      "name": "Kafka",
+      "category": "Data"
+    },
+    {
+      "name": "Airflow",
+      "category": "Data"
+    },
+    {
+      "name": "Hadoop",
+      "category": "Data"
+    },
+    {
+      "name": "PostgreSQL",
+      "category": "Database"
+    },
+    {
+      "name": "MySQL",
+      "category": "Database"
+    },
+    {
+      "name": "MongoDB",
+      "category": "Database"
+    },
+    {
+      "name": "Docker",
+      "category": "Infra"
+    },
+    {
+      "name": "Linux",
+      "category": "Infra"
+    },
+    {
+      "name": "PyTorch",
+      "category": "ML"
+    },
+    {
+      "name": "TensorFlow",
+      "category": "ML"
+    },
+    {
+      "name": "scikit-learn",
+      "category": "ML"
+    },
+    {
+      "name": "NumPy",
+      "category": "ML"
+    },
+    {
+      "name": "Pandas",
+      "category": "ML"
+    }
+  ],
+  "projects": {
+    "mode": "auto",
+    "auto_limit": 6,
+    "items": []
+  },
+  "contact": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/ElFariss"
+    },
+    {
+      "label": "Email",
+      "url": "mailto:fariselhakim898@gmail.com"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://linkedin.com"
+    }
+  ]
+}
